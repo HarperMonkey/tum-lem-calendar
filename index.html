@@ -8,7 +8,7 @@
 <link rel="icon" type="image/png" href="favicon.png">
 <meta name="theme-color" content="#0f172a">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="TUM Calendar">
 <meta name="mobile-web-app-capable" content="yes">
 
@@ -38,7 +38,11 @@ button { -webkit-tap-highlight-color:transparent; }
 .wrap {
   max-width:1180px;
   margin:0 auto;
-  padding:28px 18px calc(60px + env(safe-area-inset-bottom));
+  padding:
+    calc(28px + env(safe-area-inset-top))
+    calc(18px + env(safe-area-inset-right))
+    calc(60px + env(safe-area-inset-bottom))
+    calc(18px + env(safe-area-inset-left));
 }
 h1 {
   margin:0 0 8px;
@@ -289,7 +293,11 @@ h1 {
 
 @media(max-width:850px) {
   .wrap {
-    padding:18px 10px calc(36px + env(safe-area-inset-bottom));
+    padding:
+      calc(18px + env(safe-area-inset-top))
+      calc(10px + env(safe-area-inset-right))
+      calc(36px + env(safe-area-inset-bottom))
+      calc(10px + env(safe-area-inset-left));
   }
   header { padding:0 4px; }
   h1 { font-size:30px; }
@@ -400,6 +408,13 @@ h1 {
   .fc .fc-toolbar-chunk:first-child { grid-column:1; grid-row:2; }
   .fc .fc-toolbar-chunk:last-child { grid-column:2; grid-row:2; }
 }
+
+@media (display-mode: standalone) {
+  .wrap {
+    padding-top: calc(22px + env(safe-area-inset-top));
+  }
+}
+
 </style>
 </head>
 <body>
