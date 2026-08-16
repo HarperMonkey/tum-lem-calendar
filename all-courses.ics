@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//TUM Sem 1 Combined Calendar//EN
+PRODID:-//OpenAI//TUM LEM Combined Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:TUM Semester 1 - All Courses
@@ -336,6 +336,105 @@ DTEND;TZID=Asia/Singapore:20270120T152000
 SUMMARY:EXAM — Traffic Impacts\, Evaluation of Transport & Logistic Processes
 LOCATION:Venue not stated in timetable
 DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a6168464b34537424e625373@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20260820T130000
+DTEND;TZID=Asia/Singapore:20260820T170000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+21\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f29158d8fee597e0054aa70b@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20260831T140000
+DTEND;TZID=Asia/Singapore:20260831T180000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:687f3f4bab2d1589b46f35f0@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20260901T140000
+DTEND;TZID=Asia/Singapore:20260901T180000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0de47885ef6d19dbed8a5231@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20260930T130000
+DTEND;TZID=Asia/Singapore:20260930T170000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 9\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:188edfee84ba3720b1bf7b1f@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261001T130000
+DTEND;TZID=Asia/Singapore:20261001T170000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 9\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a16479b3f49b1feaac1a06a@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261015T140000
+DTEND;TZID=Asia/Singapore:20261015T180000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1aec3cb7f3d72cdb19e2a52@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261124T141500
+DTEND;TZID=Asia/Singapore:20261124T181500
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 17\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0fe24f622fa9be13d8e64c1@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261125T090000
+DTEND;TZID=Asia/Singapore:20261125T123000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 17\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0339a927f0b32210eddbd4d0@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261126T133000
+DTEND;TZID=Asia/Singapore:20261126T173000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 17\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b61fcc950f91c12658dda6@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20261127T133000
+DTEND;TZID=Asia/Singapore:20261127T173000
+SUMMARY:Basics of Traffic Flow & Traffic Control
+LOCATION:TR+20\, Floor B3\, UOB Innovation Hub
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 17\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:74864d6b6e68c6be39b42a79@tum-lem-calendar
+DTSTAMP:20260816T151200Z
+DTSTART;TZID=Asia/Singapore:20270118T140000
+DTEND;TZID=Asia/Singapore:20270118T152000
+SUMMARY:EXAM — Basics of Traffic Flow & Traffic Control
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nLecturer: Dr.-Ing. Andreas Rau\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
 END:VEVENT
 BEGIN:VEVENT
 UID:68b24e18-4961-45ae-8ac7-d2480f05a572@openai
