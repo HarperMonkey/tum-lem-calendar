@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Supply Chain Management
+BEGIN:VEVENT
+UID:68b24e18-4961-45ae-8ac7-d2480f05a572@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260914T160000
+DTEND;TZID=Asia/Singapore:20260914T175500
+SUMMARY:Introduction to Supply Chain Management
+DESCRIPTION:Type: Compulsory\nMode: Online (live)\nWeek 7\nLive teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8f3191-d665-45fc-baf2-475b6a9eff9c@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261005T090000
+DTEND;TZID=Asia/Singapore:20261005T121500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fedb3140-8fee-4b5e-9ad0-d71c7c52d7d2@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261005T131500
+DTEND;TZID=Asia/Singapore:20261005T150500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:709d0e84-73c8-46b9-b3ef-085385ede272@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261006T090000
+DTEND;TZID=Asia/Singapore:20261006T121500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dba2f02-c776-4aff-952f-c6d6d7bcec3b@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261006T131500
+DTEND;TZID=Asia/Singapore:20261006T150500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f28952c-dc84-42f9-95b9-3d9f5e50b40a@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261007T090000
+DTEND;TZID=Asia/Singapore:20261007T121500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:02a952f2-a998-4e1c-872d-1f6226759a72@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261007T131500
+DTEND;TZID=Asia/Singapore:20261007T150500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb7f156-a4e2-4320-92b7-8f828d1bd549@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261008T090000
+DTEND;TZID=Asia/Singapore:20261008T121500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed25d2e3-4f88-48d0-be40-6b4b546a698a@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261008T131500
+DTEND;TZID=Asia/Singapore:20261008T150500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1765d5d4-c2c0-446f-837e-5be300ff004c@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261009T090000
+DTEND;TZID=Asia/Singapore:20261009T121500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b9fac5-c86c-448a-9c19-d07c2aa51db5@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261009T131500
+DTEND;TZID=Asia/Singapore:20261009T150500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 10\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d7ab39-4c51-45af-8876-0fd59ff36eff@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261012T143000
+DTEND;TZID=Asia/Singapore:20261012T174500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:81bb1e7a-4a8d-48b6-9e5a-b8b6cc1956de@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261013T143000
+DTEND;TZID=Asia/Singapore:20261013T174500
+SUMMARY:Introduction to Supply Chain Management
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nPresence teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8193dd4-c9e6-4140-8069-ff4b6f2745fa@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261123T160000
+DTEND;TZID=Asia/Singapore:20261123T175500
+SUMMARY:Introduction to Supply Chain Management
+DESCRIPTION:Type: Compulsory\nMode: Online (live)\nWeek 17\nLive teaching\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:053c30ff-b302-464f-88fc-9155ea5deaa1@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270122T140000
+DTEND;TZID=Asia/Singapore:20270122T152000
+SUMMARY:EXAM — Introduction to Supply Chain Management
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

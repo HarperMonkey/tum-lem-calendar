@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Business Administration
+BEGIN:VEVENT
+UID:5d29b9cd-8bfc-4e07-86b0-4e21476051ec@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261130T140000
+DTEND;TZID=Asia/Singapore:20261130T183000
+SUMMARY:Business Administration
+DESCRIPTION:Type: Non-technical elective\nMode: Online (live)\nWeek 18\nProf. Isabel Welpe\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2ef776-e98f-4f93-93f0-8e979c591f8b@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261201T140000
+DTEND;TZID=Asia/Singapore:20261201T183000
+SUMMARY:Business Administration — Pre-recorded video lectures
+DESCRIPTION:Type: Non-technical elective\nMode: Flexible / self-paced\nWeek 18\nTimetable reserves this block\; content is pre-recorded.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf5d142-e62a-4a41-9841-11637389fe1b@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261202T140000
+DTEND;TZID=Asia/Singapore:20261202T183000
+SUMMARY:Business Administration — Pre-recorded video lectures
+DESCRIPTION:Type: Non-technical elective\nMode: Flexible / self-paced\nWeek 18\nTimetable reserves this block\; content is pre-recorded.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf85db9-b530-476b-8657-aecfb2b480a8@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261203T140000
+DTEND;TZID=Asia/Singapore:20261203T183000
+SUMMARY:Business Administration
+DESCRIPTION:Type: Non-technical elective\nMode: Online (live)\nWeek 18\nProf. Isabel Welpe\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7378c3bf-0c0d-4466-8f10-948e39730677@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261204T140000
+DTEND;TZID=Asia/Singapore:20261204T183000
+SUMMARY:Business Administration — Pre-recorded video lectures
+DESCRIPTION:Type: Non-technical elective\nMode: Flexible / self-paced\nWeek 18\nTimetable reserves this block\; content is pre-recorded.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1ca166-3b60-49d1-878b-aaff29aca030@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261207T140000
+DTEND;TZID=Asia/Singapore:20261207T183000
+SUMMARY:Business Administration
+LOCATION:Classroom venue TBA
+DESCRIPTION:Type: Non-technical elective\nMode: In person\nWeek 19\nProf. Christoph Kaserer\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9244ed-4ef8-4e65-94a4-0cffdb10089b@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261208T140000
+DTEND;TZID=Asia/Singapore:20261208T183000
+SUMMARY:Business Administration
+LOCATION:Classroom venue TBA
+DESCRIPTION:Type: Non-technical elective\nMode: In person\nWeek 19\nProf. Christoph Kaserer\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e7eec4-9a99-4368-9a03-09170857775f@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261209T140000
+DTEND;TZID=Asia/Singapore:20261209T183000
+SUMMARY:Business Administration
+LOCATION:Classroom venue TBA
+DESCRIPTION:Type: Non-technical elective\nMode: In person\nWeek 19\nProf. Christoph Kaserer\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e186b2d-2d51-46df-9852-a5d3daa2e7f2@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261210T140000
+DTEND;TZID=Asia/Singapore:20261210T183000
+SUMMARY:Business Administration
+LOCATION:Classroom venue TBA
+DESCRIPTION:Type: Non-technical elective\nMode: In person\nWeek 19\nProf. Christoph Kaserer\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:24654f52-2e38-4ada-9368-3fbf98422cdc@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261211T140000
+DTEND;TZID=Asia/Singapore:20261211T183000
+SUMMARY:Business Administration
+LOCATION:Classroom venue TBA
+DESCRIPTION:Type: Non-technical elective\nMode: In person\nWeek 19\nProf. Christoph Kaserer\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

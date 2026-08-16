@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Business Logistics
+BEGIN:VEVENT
+UID:ec7a18b0-f0ba-48c5-a563-8e54445423aa@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260824T090000
+DTEND;TZID=Asia/Singapore:20260824T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:add86527-f5e6-4e32-ac61-ef78070aa084@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260825T090000
+DTEND;TZID=Asia/Singapore:20260825T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b697f9e3-30f9-4dc2-bd3d-05de0dddc536@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260826T090000
+DTEND;TZID=Asia/Singapore:20260826T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7a2ffb04-8048-4e89-b098-72d9e4293990@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260827T090000
+DTEND;TZID=Asia/Singapore:20260827T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:228c4ce7-e9dc-40d7-9615-6234c80fdd4d@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260828T090000
+DTEND;TZID=Asia/Singapore:20260828T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:402b2aab-8858-454b-b87d-36262ebf9ff4@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260828T133000
+DTEND;TZID=Asia/Singapore:20260828T170000
+SUMMARY:Introduction to Business Logistics — Equalbase Industry Visit
+LOCATION:Pickup: NEC → Equalbase\, 93 Tuas Bay Drive → drop at Pioneer MRT
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nBus pickup at NEC 13:30\; industry visit\; drop at Pioneer MRT around 16:00–17:00.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:67ee1b51-9ae3-4214-81f0-879530243128@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260831T090000
+DTEND;TZID=Asia/Singapore:20260831T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38b947ae-4635-4dd5-a4d4-ab164abdb2fb@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260901T090000
+DTEND;TZID=Asia/Singapore:20260901T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f66f7359-87d1-4ef8-99c6-11d5dcf6ccd5@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260902T090000
+DTEND;TZID=Asia/Singapore:20260902T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b173908f-e7c6-4717-b2bf-b1d5788545da@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260903T090000
+DTEND;TZID=Asia/Singapore:20260903T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f397bd14-4ade-4bb4-a8f8-68a5df10fd6f@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260904T090000
+DTEND;TZID=Asia/Singapore:20260904T123500
+SUMMARY:Introduction to Business Logistics
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bad8b48d-069c-4868-a9f5-1ead011901da@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270106T140000
+DTEND;TZID=Asia/Singapore:20270106T152000
+SUMMARY:EXAM — Introduction to Business Logistics
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

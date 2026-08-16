@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Decision Support
+BEGIN:VEVENT
+UID:e6b94f7d-0d74-478c-8243-d51672e272bc@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260817T090000
+DTEND;TZID=Asia/Singapore:20260817T130000
+SUMMARY:Decision Support for Logistics Management
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nNo lunch break\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:173f4b81-dbaf-440e-a13a-824318a644bb@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260818T090000
+DTEND;TZID=Asia/Singapore:20260818T130000
+SUMMARY:Decision Support for Logistics Management
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nNo lunch break\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f9bf27-579f-4669-869b-1c6794689c08@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270104T140000
+DTEND;TZID=Asia/Singapore:20270104T152000
+SUMMARY:EXAM — Decision Support for Logistics Management
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

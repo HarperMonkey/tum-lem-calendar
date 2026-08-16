@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Statistical Methods
+BEGIN:VEVENT
+UID:41c2037d-7f56-4cc7-9071-9e27d3f53f0d@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260817T141500
+DTEND;TZID=Asia/Singapore:20260817T175500
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nRoom available up to 18:00 only\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2947c5-d7aa-4b7f-979d-a1a5a7fb5059@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260819T090000
+DTEND;TZID=Asia/Singapore:20260819T125000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e44cd9-d1d4-44ef-a14a-9da4106a65de@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260821T090000
+DTEND;TZID=Asia/Singapore:20260821T124500
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 3\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd94334-085f-40bb-8e7d-33ec936480ec@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260904T143000
+DTEND;TZID=Asia/Singapore:20260904T181500
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 5\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0614fb19-0d49-4d42-a61b-c0a2e15f92d9@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260911T134500
+DTEND;TZID=Asia/Singapore:20260911T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:285830c3-5a92-4c46-83d1-838a9bd11747@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260918T134500
+DTEND;TZID=Asia/Singapore:20260918T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:26390648-b24f-4e53-9dda-ed377524a264@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261002T134500
+DTEND;TZID=Asia/Singapore:20261002T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 9\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f67e2ec-852e-4a8c-9cf0-c0a39874e5d7@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261030T134500
+DTEND;TZID=Asia/Singapore:20261030T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 13\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b803db-f3f6-4e9f-b19d-211cab4510b7@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261116T134500
+DTEND;TZID=Asia/Singapore:20261116T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 16\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:73d746a9-7bba-4b16-ba8e-d354c68f37c9@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261120T134500
+DTEND;TZID=Asia/Singapore:20261120T173000
+SUMMARY:Statistical Methods for Transport & Logistic Processes
+LOCATION:ABN-01a-CF2 / Seminar Room 1-1 (ABN)
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 16\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a170d437-e764-4b73-8c7c-2d7c3fdeecb1@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270108T140000
+DTEND;TZID=Asia/Singapore:20270108T152000
+SUMMARY:EXAM / RE-EXAM — Statistical Methods for Transport & Logistic Processes
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

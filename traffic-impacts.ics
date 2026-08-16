@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Traffic Impacts
+BEGIN:VEVENT
+UID:e3ca04ce-dc99-4d0e-9267-16afebf8a1f3@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260907T090000
+DTEND;TZID=Asia/Singapore:20260907T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1529bff-8801-4429-87a1-1baee3edb863@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260908T090000
+DTEND;TZID=Asia/Singapore:20260908T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aea1e787-b033-4253-964d-30bc53f6ab04@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260909T090000
+DTEND;TZID=Asia/Singapore:20260909T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:252047cd-d67c-422e-9869-ce45da5e56d7@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260910T090000
+DTEND;TZID=Asia/Singapore:20260910T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:526b9a91-2219-4109-a553-5a63b5678e43@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260911T090000
+DTEND;TZID=Asia/Singapore:20260911T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 6\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7873e87-c1eb-4496-8b42-4664a31ffa9f@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260914T090000
+DTEND;TZID=Asia/Singapore:20260914T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f787742d-86b9-4a55-82b0-be0868dde0ee@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260915T090000
+DTEND;TZID=Asia/Singapore:20260915T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31841a40-2f1b-4d47-847f-bedb285493aa@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260916T090000
+DTEND;TZID=Asia/Singapore:20260916T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7336c5-55a3-490b-8c4a-4afa5d303ab1@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260917T090000
+DTEND;TZID=Asia/Singapore:20260917T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c071330b-3897-4964-b636-d094dadeafb3@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20260918T090000
+DTEND;TZID=Asia/Singapore:20260918T123500
+SUMMARY:Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Lecture Room 4\, Level 3\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 7\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d261925-7ff0-4230-87e0-59cd6032bf64@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270120T140000
+DTEND;TZID=Asia/Singapore:20270120T152000
+SUMMARY:EXAM — Traffic Impacts\, Evaluation of Transport & Logistic Processes
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

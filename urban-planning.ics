@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Transport & Urban Planning
+BEGIN:VEVENT
+UID:43d76b6e-970b-4710-90ba-f830fcd919ad@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261119T090000
+DTEND;TZID=Asia/Singapore:20261119T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 16\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3f7d15d-fec1-4eee-835d-dfb8f0633f9d@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261120T090000
+DTEND;TZID=Asia/Singapore:20261120T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 16\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb3fa7f0-5fb3-429c-8b85-3db1345dc011@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261123T090000
+DTEND;TZID=Asia/Singapore:20261123T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 17\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58461e52-812d-4e5d-9c7e-875cc6baab13@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261124T090000
+DTEND;TZID=Asia/Singapore:20261124T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 17\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2205a6-4b44-4d5f-aed2-71e3bb8eed68@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261125T141500
+DTEND;TZID=Asia/Singapore:20261125T181500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 17\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d457b203-f840-4c8b-956e-c3d9daea74ce@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261126T090000
+DTEND;TZID=Asia/Singapore:20261126T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 17\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:764377ab-480b-40b3-ba79-0ffaf882b077@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261127T090000
+DTEND;TZID=Asia/Singapore:20261127T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 17\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:32f2998c-f69d-4676-bff5-d021b2f0bee7@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261130T090000
+DTEND;TZID=Asia/Singapore:20261130T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 18\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a2c04dd-8809-4769-a5e6-15d4c4cefd21@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261201T090000
+DTEND;TZID=Asia/Singapore:20261201T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 18\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d4b5b9-0304-46b3-a934-4455ef6af9a7@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261202T090000
+DTEND;TZID=Asia/Singapore:20261202T123500
+SUMMARY:Transport & Urban Planning
+LOCATION:NTU venue TBA
+DESCRIPTION:Type: Technical elective\nMode: In person\nWeek 18\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dbcf2651-2f4c-40e8-9321-04579d5325fd@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270125T100000
+DTEND;TZID=Asia/Singapore:20270125T112000
+SUMMARY:EXAM — Transport & Urban Planning
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Technical elective exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR

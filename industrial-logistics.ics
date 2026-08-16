@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//TUM Sem 1 Clean Outlook Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TUM – Industrial Logistics
+BEGIN:VEVENT
+UID:7d029c9e-a3a2-4e43-9b9a-da1d2ebcd7c3@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261012T090000
+DTEND;TZID=Asia/Singapore:20261012T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:871ee0e1-e482-46b7-ad2e-e78fab6dcb90@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261013T090000
+DTEND;TZID=Asia/Singapore:20261013T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:544f5e14-b708-426d-8517-5e1c13d1b628@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261014T090000
+DTEND;TZID=Asia/Singapore:20261014T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4199d38b-05f5-4844-9502-a819e981ba2c@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261015T090000
+DTEND;TZID=Asia/Singapore:20261015T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:44ee56a6-3356-473f-a00a-eba4dae5f79f@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261016T090000
+DTEND;TZID=Asia/Singapore:20261016T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 11\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d586a8b-0d1c-4150-860f-790d308abfdb@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261019T090000
+DTEND;TZID=Asia/Singapore:20261019T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 12\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d807349-3127-4144-bc43-76f926dfdef3@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261020T090000
+DTEND;TZID=Asia/Singapore:20261020T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 12\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:255c58d1-7cb0-4dab-8e19-7d59478ac27c@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261021T090000
+DTEND;TZID=Asia/Singapore:20261021T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 12\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f0c3783-8fe0-43e1-8006-8293c34ae986@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261022T090000
+DTEND;TZID=Asia/Singapore:20261022T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 12\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e50dbc-0bb3-49f5-98b3-ee6f80cd24c6@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20261023T090000
+DTEND;TZID=Asia/Singapore:20261023T130000
+SUMMARY:Industrial Logistics
+LOCATION:Lecture Room 4\, NEC
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 12\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:716afff1-c4c3-4160-b871-4be10c813b90@openai
+DTSTAMP:20260816T191653
+DTSTART;TZID=Asia/Singapore:20270111T140000
+DTEND;TZID=Asia/Singapore:20270111T152000
+SUMMARY:EXAM — Industrial Logistics
+LOCATION:Venue not stated in timetable
+DESCRIPTION:Type: Compulsory exam\nMode: Exam\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+END:VEVENT
+END:VCALENDAR
