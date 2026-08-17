@@ -180,9 +180,9 @@ UID:402b2aab-8858-454b-b87d-36262ebf9ff4@openai
 DTSTAMP:20260816T191653
 DTSTART;TZID=Asia/Singapore:20260828T133000
 DTEND;TZID=Asia/Singapore:20260828T170000
-SUMMARY:Introduction to Business Logistics — Equalbase Industry Visit
+SUMMARY:Introduction to Business Logistics — Equalbase Industry Visit (approx. end 16:00–17:00)
 LOCATION:Pickup: NEC → Equalbase\, 93 Tuas Bay Drive → drop at Pioneer MRT
-DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nBus pickup at NEC 13:30\; industry visit\; drop at Pioneer MRT around 16:00–17:00.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nBus pickup at NEC 13:30\; industry visit\; drop at Pioneer MRT around 16:00–17:00.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.\nBus drop-off at Pioneer MRT is approximately 16:00–17:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:67ee1b51-9ae3-4214-81f0-879530243128@openai
@@ -936,10 +936,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5a54a9ff-2d5e-4fdd-a3c2-e4b6dc7ea197@openai
 DTSTAMP:20260816T191653
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
+DTSTART;TZID=Asia/Singapore:20260821T235900
+DTEND;TZID=Asia/Singapore:20260822T000000
 SUMMARY:DEADLINE — Elective selection form
-DESCRIPTION:Type: Admin\nMode: All day\nWeek 3\nSubmit online elective selection form by 23:59.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.
+DESCRIPTION:Type: Admin\nMode: All day\nWeek 3\nSubmit online elective selection form by 23:59.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.\nExact deadline: 21 Aug 2026, 11:59 PM Singapore time.
 END:VEVENT
 BEGIN:VEVENT
 UID:5a77d96d-1ab8-4964-9aaf-41b57f3fc037@openai
