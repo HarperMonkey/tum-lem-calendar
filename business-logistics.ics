@@ -54,9 +54,9 @@ UID:402b2aab-8858-454b-b87d-36262ebf9ff4@openai
 DTSTAMP:20260816T191653
 DTSTART;TZID=Asia/Singapore:20260828T133000
 DTEND;TZID=Asia/Singapore:20260828T170000
-SUMMARY:Introduction to Business Logistics — Equalbase Industry Visit (approx. end 16:00–17:00)
+SUMMARY:Industry Visit — Equalbase Development
 LOCATION:Pickup: NEC → Equalbase\, 93 Tuas Bay Drive → drop at Pioneer MRT
-DESCRIPTION:Type: Compulsory\nMode: In person\nWeek 4\nBus pickup at NEC 13:30\; industry visit\; drop at Pioneer MRT around 16:00–17:00.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.\nBus drop-off at Pioneer MRT is approximately 16:00–17:00.
+DESCRIPTION:Business Logistics activity\nType: Compulsory\nMode: In person\nWeek 4\nBus pickup at NEC 13:30\; industry visit\; drop at Pioneer MRT around 16:00–17:00.\nSource: Timetable LEM-RUT Sem 1 ver. 14.8.2026\nNote: Official timetable is subject to changes.\nBus drop-off at Pioneer MRT is approximately 16:00–17:00.\nBus pickup at NEC at 13:30.\nIndustry visit: Equalbase Development Pte Ltd, 93 Tuas Bay Drive.\nBus drop-off at Pioneer MRT approximately 16:00–17:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:67ee1b51-9ae3-4214-81f0-879530243128@openai
